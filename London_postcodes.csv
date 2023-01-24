@@ -1,0 +1,236 @@
+,postcode,eastings,northings,latitude,longitude,town,region,country,country_string
+242,BR1,540600,170000,51.41107,0.02192,Bromley,Greater London,ENG,England
+243,BR2,540700,167500,51.38858,0.02237,Bromley,Greater London,ENG,England
+244,BR3,537000,169000,51.40297,-0.0302,Bromley,Greater London,ENG,England
+245,BR4,538700,166000,51.37559,-0.00695,Bromley,Greater London,ENG,England
+246,BR5,546400,167800,51.38983,0.10436,Bromley,Greater London,ENG,England
+247,BR6,545700,165100,51.36575,0.0932,Bromley,Greater London,ENG,England
+248,BR7,544100,170000,51.41019,0.07222,Bromley,Greater London,ENG,England
+512,CR0,534000,165500,51.37223,-0.07463,Croydon,Greater London,ENG,England
+513,CR2,533700,163000,51.34983,-0.07988,Croydon,Greater London,ENG,England
+515,CR4,528100,168900,51.40415,-0.15813,Merton,Greater London,ENG,England
+516,CR5,529700,158700,51.31211,-0.13886,Croydon,Greater London,ENG,England
+518,CR7,532000,168000,51.39517,-0.10242,Croydon,Greater London,ENG,England
+519,CR8,531600,161400,51.33594,-0.11061,Croydon,Greater London,ENG,England
+520,CR9,534000,165500,51.37223,-0.07463,Croydon,Greater London,ENG,England
+583,DA14,546900,171700,51.42475,0.11316,Bexley,Greater London,ENG,England
+584,DA15,545900,173400,51.44029,0.09948,Bexley,Greater London,ENG,England
+585,DA16,546500,176100,51.4644,0.10923,Bexley,Greater London,ENG,England
+586,DA17,549200,178700,51.48706,0.14917,Crayford,Greater London,ENG,England
+587,DA18,548800,179200,51.49165,0.14363,Crayford,Greater London,ENG,England
+591,DA5,549200,173500,51.44033,0.14698,Bexley,Greater London,ENG,England
+592,DA6,548700,175100,51.45484,0.14046,Bexley,Greater London,ENG,England
+593,DA7,549100,176300,51.46552,0.14672,Crayford,Greater London,ENG,England
+594,DA8,551200,177500,51.47574,0.17745,Crayford,Greater London,ENG,England
+728,E1,534700,181700,51.51766,-0.05841,Poplar,Greater London,ENG,England
+729,E10,537800,187400,51.56814,-0.01153,Walthamstow,Greater London,ENG,England
+730,E11,539600,187400,51.56769,0.01443,Walthamstow,Greater London,ENG,England
+731,E12,542400,185500,51.54992,0.05404,Stratford,Greater London,ENG,England
+732,E13,540600,182900,51.527,0.02705,East Ham,Greater London,ENG,England
+733,E14,537500,180500,51.5062,-0.01855,Poplar,Greater London,ENG,England
+734,E15,538900,184200,51.53911,0.00307,Stratford,Greater London,ENG,England
+735,E16,540600,181100,51.51083,0.02633,East Ham,Greater London,ENG,England
+736,E17,537300,189400,51.58623,-0.01796,Walthamstow,Greater London,ENG,England
+737,E18,540400,190100,51.59176,0.02705,Ilford,Greater London,ENG,England
+738,E1W,534800,180600,51.50775,-0.05739,Poplar,Greater London,ENG,England
+739,E2,534500,183000,51.52939,-0.0608,Poplar,Greater London,ENG,England
+740,E3,537000,182900,51.52789,-0.02482,Poplar,Greater London,ENG,England
+741,E4,538200,193400,51.62196,-0.00339,Walthamstow,Greater London,ENG,England
+742,E5,535000,186300,51.55893,-0.05233,Hackney,Greater London,ENG,England
+743,E6,542600,182800,51.5256,0.05583,East Ham,Greater London,ENG,England
+744,E7,540600,185100,51.54678,0.02793,Stratford,Greater London,ENG,England
+745,E8,534300,184400,51.54202,-0.06315,Hackney,Greater London,ENG,England
+746,E9,535700,184500,51.54258,-0.04293,Hackney,Greater London,ENG,England
+747,EC1,531700,182200,51.52286,-0.10144,Islington,Greater London,ENG,England
+748,EC1A,531600,181900,51.52019,-0.103,Islington,Greater London,ENG,England
+749,EC1M,531700,182000,51.52106,-0.10152,Islington,Greater London,ENG,England
+750,EC1N,531300,181900,51.52026,-0.10732,Camden Town,Greater London,ENG,England
+751,EC1R,531300,182400,51.52475,-0.10713,Islington,Greater London,ENG,England
+752,EC1V,532000,182500,51.52549,-0.09701,Islington,Greater London,ENG,England
+753,EC1Y,532300,182200,51.52272,-0.0928,Islington,Greater London,ENG,England
+754,EC2,532600,181900,51.51995,-0.08859,Islington,Greater London,ENG,England
+755,EC2A,532800,182200,51.5226,-0.0856,Islington,Greater London,ENG,England
+766,EC3P,531700,181900,51.52016,-0.10156,Islington,Greater London,ENG,England
+830,EN1,533700,196800,51.6536,-0.06707,Enfield,Greater London,ENG,England
+833,EN2,532000,197300,51.6585,-0.09144,Enfield,Greater London,ENG,England
+834,EN3,535700,197400,51.65852,-0.03794,Enfield,Greater London,ENG,England
+835,EN4,527300,196000,51.6479,-0.15983,Barnet,Greater London,ENG,England
+836,EN5,524900,196100,51.64934,-0.19447,Barnet,Greater London,ENG,England
+1027,HA0,517600,184900,51.55024,-0.3037,Brent,Greater London,ENG,England
+1028,HA1,515300,188100,51.57948,-0.33581,Harrow,Greater London,ENG,England
+1029,HA2,513800,187400,51.57349,-0.35768,Harrow,Greater London,ENG,England
+1030,HA3,516400,189600,51.59274,-0.31945,Harrow,Greater London,ENG,England
+1031,HA4,510200,186900,51.56971,-0.40977,Hillingdon,Greater London,ENG,England
+1032,HA5,511900,189700,51.59455,-0.38436,Harrow,Greater London,ENG,England
+1033,HA6,509400,191400,51.61032,-0.41991,Hillingdon,Greater London,ENG,England
+1034,HA7,517200,191500,51.60965,-0.30727,Harrow,Greater London,ENG,England
+1035,HA8,519600,191700,51.61094,-0.27255,Barnet,Greater London,ENG,England
+1036,HA9,518800,185900,51.55898,-0.28606,Brent,Greater London,ENG,England
+1120,IG1,543800,186500,51.55855,0.07463,Ilford,Greater London,ENG,England
+1122,IG11,545200,184000,51.53573,0.09378,Barking,Greater London,ENG,England
+1123,IG2,544200,188200,51.57373,0.08109,Ilford,Greater London,ENG,England
+1124,IG3,545600,186900,51.56168,0.10074,Ilford,Greater London,ENG,England
+1125,IG4,542400,188500,51.57688,0.05525,Ilford,Greater London,ENG,England
+1126,IG5,543100,189700,51.58749,0.06584,Ilford,Greater London,ENG,England
+1127,IG6,544700,190300,51.59247,0.08917,Ilford,Greater London,ENG,England
+1129,IG8,540800,191800,51.60694,0.0335,Ilford,Greater London,ENG,England
+1256,KT1,518500,169000,51.40713,-0.29606,Kingston Upon Thames,Greater London,ENG,England
+1267,KT2,519000,170000,51.41602,-0.28854,Kingston Upon Thames,Greater London,ENG,England
+1273,KT3,521300,168200,51.39935,-0.25609,Kingston Upon Thames,Greater London,ENG,England
+1274,KT4,522300,165800,51.37757,-0.24255,Sutton,Greater London,ENG,England
+1275,KT5,519200,167300,51.39171,-0.28657,Kingston Upon Thames,Greater London,ENG,England
+1276,KT6,518300,167000,51.3892,-0.2996,Kingston Upon Thames,Greater London,ENG,England
+1279,KT9,518200,164200,51.36405,-0.30197,Kingston Upon Thames,Greater London,ENG,England
+1623,N1,532000,183800,51.53717,-0.09652,Islington,Greater London,ENG,England
+1624,N10,528600,190000,51.59368,-0.14325,Tottenham,Greater London,ENG,England
+1625,N11,528900,192200,51.61338,-0.13812,Enfield,Greater London,ENG,England
+1626,N12,526300,192300,51.61487,-0.17561,Barnet,Greater London,ENG,England
+1627,N13,531400,192900,51.6191,-0.10176,Enfield,Greater London,ENG,England
+1628,N14,529500,194500,51.63392,-0.1286,Enfield,Greater London,ENG,England
+1629,N15,532900,188800,51.5819,-0.08166,Tottenham,Greater London,ENG,England
+1630,N16,533400,186700,51.5629,-0.07525,Hackney,Greater London,ENG,England
+1631,N17,533600,190600,51.59791,-0.07088,Tottenham,Greater London,ENG,England
+1632,N18,534000,192300,51.61309,-0.06446,Enfield,Greater London,ENG,England
+1633,N19,529800,186800,51.56464,-0.12712,Islington,Greater London,ENG,England
+1634,N2,526900,189500,51.58957,-0.16797,Barnet,Greater London,ENG,England
+1635,N20,526400,193900,51.62923,-0.17359,Barnet,Greater London,ENG,England
+1636,N21,531600,194800,51.63612,-0.09816,Enfield,Greater London,ENG,England
+1637,N22,530900,190700,51.59944,-0.1098,Tottenham,Greater London,ENG,England
+1638,N3,525200,190600,51.59984,-0.1921,Barnet,Greater London,ENG,England
+1639,N4,531600,187500,51.57052,-0.1009,Hackney,Greater London,ENG,England
+1640,N5,531900,185600,51.55337,-0.09729,Islington,Greater London,ENG,England
+1641,N6,528800,187500,51.57116,-0.14129,Tottenham,Greater London,ENG,England
+1642,N7,530600,185500,51.55277,-0.11607,Islington,Greater London,ENG,England
+1643,N8,530500,188900,51.58335,-0.11625,Tottenham,Greater London,ENG,England
+1644,N9,534500,194000,51.62825,-0.05659,Enfield,Greater London,ENG,England
+1806,NW1,528800,183200,51.53252,-0.14286,Camden Town,Greater London,ENG,England
+1807,NW10,521600,183800,51.53951,-0.24641,Brent,Greater London,ENG,England
+1808,NW11,525000,188200,51.57831,-0.19584,Barnet,Greater London,ENG,England
+1809,NW2,523500,185900,51.55797,-0.21829,Brent,Greater London,ENG,England
+1810,NW3,526800,185300,51.55184,-0.17093,Camden Town,Greater London,ENG,England
+1811,NW4,523100,189100,51.58682,-0.22294,Barnet,Greater London,ENG,England
+1812,NW5,528800,185300,51.55139,-0.14209,Camden Town,Greater London,ENG,England
+1813,NW6,525200,184100,51.54142,-0.19442,Camden Town,Greater London,ENG,England
+1814,NW7,522200,192200,51.61488,-0.23484,Barnet,Greater London,ENG,England
+1815,NW8,526800,183000,51.53117,-0.17175,Paddington,Greater London,ENG,England
+1816,NW9,520900,189000,51.5864,-0.25472,Brent,Greater London,ENG,England
+2135,RM1,551300,189300,51.58175,0.18395,Romford,Greater London,ENG,England
+2136,RM10,549700,185100,51.54443,0.15909,Barking,Greater London,ENG,England
+2137,RM11,553800,188000,51.56939,0.21944,Romford,Greater London,ENG,England
+2138,RM12,553100,186100,51.55251,0.20852,Romford,Greater London,ENG,England
+2139,RM13,552300,182900,51.52397,0.19561,Romford,Greater London,ENG,England
+2140,RM14,557000,186600,51.55593,0.26496,Romford,Greater London,ENG,England
+2146,RM2,552600,189500,51.5832,0.20279,Romford,Greater London,ENG,England
+2148,RM3,554200,191600,51.60163,0.22679,Romford,Greater London,ENG,England
+2150,RM5,550000,191200,51.59917,0.16602,Romford,Greater London,ENG,England
+2151,RM6,547800,188500,51.57549,0.13313,Barking,Greater London,ENG,England
+2152,RM7,550400,188500,51.5748,0.17063,Romford,Greater London,ENG,England
+2153,RM8,547800,186400,51.55662,0.13225,Barking,Greater London,ENG,England
+2154,RM9,548100,184600,51.54036,0.13582,Barking,Greater London,ENG,England
+2251,SE1,532600,179500,51.49838,-0.08949,Camberwell,Greater London,ENG,England
+2252,SE10,538800,177800,51.48162,-0.00089,Greenwich,Greater London,ENG,England
+2253,SE11,531300,178400,51.4888,-0.10862,Lambeth,Greater London,ENG,England
+2254,SE12,540700,173700,51.4443,0.02483,Greenwich,Greater London,ENG,England
+2255,SE13,538300,175200,51.45837,-0.0091,Lewisham,Greater London,ENG,England
+2256,SE14,536000,177000,51.47511,-0.0415,Lewisham,Greater London,ENG,England
+2257,SE15,534400,176600,51.47189,-0.06468,Camberwell,Greater London,ENG,England
+2258,SE16,535200,179300,51.49597,-0.05213,Camberwell,Greater London,ENG,England
+2259,SE17,532400,178300,51.48764,-0.09282,Camberwell,Greater London,ENG,England
+2260,SE18,544000,178200,51.48391,0.07412,Eltham,Greater London,ENG,England
+2261,SE19,533200,170500,51.41735,-0.08424,Croydon,Greater London,ENG,England
+2262,SE2,547000,178900,51.48943,0.11759,Eltham,Greater London,ENG,England
+2263,SE20,535100,169900,51.41151,-0.05716,Bromley,Greater London,ENG,England
+2264,SE21,533000,172800,51.43807,-0.08626,Camberwell,Greater London,ENG,England
+2265,SE22,534000,174600,51.45401,-0.07119,Camberwell,Greater London,ENG,England
+2266,SE23,535600,173100,51.44015,-0.04875,Lewisham,Greater London,ENG,England
+2267,SE24,532100,174600,51.45446,-0.09853,Camberwell,Greater London,ENG,England
+2268,SE25,533900,168300,51.39742,-0.07501,Croydon,Greater London,ENG,England
+2269,SE26,535300,171600,51.42674,-0.05364,Lewisham,Greater London,ENG,England
+2270,SE27,532000,171900,51.43022,-0.10097,Lambeth,Greater London,ENG,England
+2271,SE28,546300,180300,51.50219,0.10809,Eltham,Greater London,ENG,England
+2272,SE3,540300,176400,51.46866,0.02015,Greenwich,Greater London,ENG,England
+2273,SE4,536600,175400,51.46058,-0.03348,Lewisham,Greater London,ENG,England
+2274,SE5,532600,176700,51.47322,-0.09055,Camberwell,Greater London,ENG,England
+2275,SE6,538000,172900,51.43777,-0.01432,Lewisham,Greater London,ENG,England
+2276,SE7,541300,178100,51.48369,0.03521,Greenwich,Greater London,ENG,England
+2277,SE8,536900,177700,51.48118,-0.02828,Lewisham,Greater London,ENG,England
+2278,SE9,542900,173800,51.44465,0.05651,Eltham,Greater London,ENG,England
+2327,SM1,525900,164600,51.36599,-0.19127,Sutton,Greater London,ENG,England
+2328,SM2,525600,163100,51.35258,-0.19611,Sutton,Greater London,ENG,England
+2329,SM3,524400,165000,51.36992,-0.21267,Sutton,Greater London,ENG,England
+2330,SM4,525300,167500,51.39219,-0.19886,Merton,Greater London,ENG,England
+2331,SM5,527600,164800,51.36741,-0.16679,Sutton,Greater London,ENG,England
+2332,SM6,529300,164000,51.35984,-0.14267,Sutton,Greater London,ENG,England
+2434,SW10,526300,177700,51.48365,-0.18086,Kensington,Greater London,ENG,England
+2435,SW11,527500,175800,51.4663,-0.16427,Wandsworth,Greater London,ENG,England
+2436,SW12,528700,173500,51.44536,-0.14784,Wandsworth,Greater London,ENG,England
+2437,SW13,521900,176600,51.47473,-0.24458,Richmond,Greater London,ENG,England
+2438,SW14,520500,175500,51.46514,-0.26511,Richmond,Greater London,ENG,England
+2439,SW15,523300,174700,51.45734,-0.22509,Wandsworth,Greater London,ENG,England
+2440,SW16,530200,170900,51.42165,-0.12722,Lambeth,Greater London,ENG,England
+2441,SW17,527700,171800,51.4303,-0.16283,Wandsworth,Greater London,ENG,England
+2442,SW18,525800,173900,51.4496,-0.18941,Wandsworth,Greater London,ENG,England
+2443,SW19,524900,170900,51.42284,-0.20341,Merton,Greater London,ENG,England
+2452,SW2,530700,174000,51.44939,-0.11889,Lambeth,Greater London,ENG,England
+2453,SW20,523400,169500,51.41058,-0.22547,Merton,Greater London,ENG,England
+2454,SW3,527400,178400,51.48969,-0.16477,Kensington,Greater London,ENG,England
+2455,SW4,529500,175200,51.46045,-0.13571,Lambeth,Greater London,ENG,England
+2456,SW5,525800,178400,51.49005,-0.18781,Kensington,Greater London,ENG,England
+2457,SW6,525000,176900,51.47675,-0.19986,Hammersmith,Greater London,ENG,England
+2458,SW7,526700,179100,51.49614,-0.1746,Kensington,Greater London,ENG,England
+2459,SW8,529800,176900,51.47566,-0.13077,Lambeth,Greater London,ENG,England
+2460,SW9,531100,176200,51.46907,-0.11232,Lambeth,Greater London,ENG,England
+2648,TW1,516400,173700,51.44982,-0.3247,Richmond,Greater London,ENG,England
+2649,TW10,518000,173700,51.44949,-0.30168,Richmond,Greater London,ENG,England
+2650,TW11,516000,171100,51.42653,-0.33131,Richmond,Greater London,ENG,England
+2651,TW12,513400,170500,51.42166,-0.36888,Richmond,Greater London,ENG,England
+2652,TW13,511200,172300,51.43828,-0.39995,Hounslow,Greater London,ENG,England
+2653,TW14,509900,173800,51.45202,-0.41818,Hounslow,Greater London,ENG,England
+2659,TW2,514700,173300,51.44657,-0.34929,Richmond,Greater London,ENG,England
+2661,TW3,513800,175600,51.46742,-0.36149,Hounslow,Greater London,ENG,England
+2662,TW4,512300,175400,51.46593,-0.38314,Hounslow,Greater London,ENG,England
+2663,TW5,512400,177000,51.48029,-0.3812,Hounslow,Greater London,ENG,England
+2664,TW6,507900,175700,51.46948,-0.44638,Hillingdon,Greater London,ENG,England
+2665,TW7,515800,176300,51.47331,-0.33248,Hounslow,Greater London,ENG,England
+2666,TW8,517600,177700,51.48552,-0.30611,Hounslow,Greater London,ENG,England
+2667,TW9,518500,175700,51.46736,-0.29382,Richmond,Greater London,ENG,England
+2668,UB1,512900,180800,51.51435,-0.37278,Southall,Greater London,ENG,England
+2669,UB10,507300,184400,51.5478,-0.45236,Hillingdon,Greater London,ENG,England
+2670,UB11,507000,181200,51.51909,-0.45766,Hillingdon,Greater London,ENG,England
+2671,UB2,512500,179100,51.49915,-0.37909,Southall,Greater London,ENG,England
+2672,UB3,509500,179700,51.50513,-0.42211,Hillingdon,Greater London,ENG,England
+2673,UB4,510500,181800,51.52381,-0.40704,Hillingdon,Greater London,ENG,England
+2674,UB5,512700,184000,51.54315,-0.37464,Southall,Greater London,ENG,England
+2675,UB6,514900,183600,51.53911,-0.34306,Southall,Greater London,ENG,England
+2676,UB7,506200,179700,51.50576,-0.46964,Hillingdon,Greater London,ENG,England
+2677,UB8,505900,182900,51.53458,-0.473,Hillingdon,Greater London,ENG,England
+2680,W10,523900,181800,51.52103,-0.21397,Kensington,Greater London,ENG,England
+2681,W11,524600,180800,51.51189,-0.20424,Kensington,Greater London,ENG,England
+2682,W12,522900,180300,51.50777,-0.2289,Hammersmith,Greater London,ENG,England
+2683,W13,516600,180700,51.5127,-0.31951,Ealing,Greater London,ENG,England
+2684,W14,524300,178900,51.49488,-0.20923,Hammersmith,Greater London,ENG,England
+2689,W1G,528600,181600,51.51818,-0.14633,Paddington,Greater London,ENG,England
+2690,W1H,527700,181400,51.51659,-0.15936,Paddington,Greater London,ENG,England
+2693,W1M,528400,181600,51.51823,-0.14921,Paddington,Greater London,ENG,England
+2695,W1T,529400,181800,51.5198,-0.13473,Camden Town,Greater London,ENG,England
+2696,W1U,528200,181600,51.51827,-0.15209,Paddington,Greater London,ENG,England
+2697,W1W,529100,181700,51.51897,-0.13909,Paddington,Greater London,ENG,England
+2698,W2,526400,181200,51.51508,-0.17816,Paddington,Greater London,ENG,England
+2699,W3,520200,180400,51.50925,-0.26775,Ealing,Greater London,ENG,England
+2700,W4,520600,178400,51.49118,-0.26268,Hounslow,Greater London,ENG,England
+2701,W5,517900,180700,51.51243,-0.30078,Ealing,Greater London,ENG,England
+2702,W6,523000,178600,51.49246,-0.22805,Hammersmith,Greater London,ENG,England
+2703,W7,515600,180500,51.5111,-0.33398,Ealing,Greater London,ENG,England
+2704,W8,525400,179500,51.50003,-0.19317,Kensington,Greater London,ENG,England
+2705,W9,525500,182400,51.52607,-0.1907,Paddington,Greater London,ENG,England
+2722,WC1,530300,182000,51.52139,-0.12169,Camden Town,Greater London,ENG,England
+2723,WC1A,530100,181500,51.51694,-0.12475,Camden Town,Greater London,ENG,England
+2724,WC1B,530000,181700,51.51876,-0.12612,Camden Town,Greater London,ENG,England
+2725,WC1E,529600,181900,51.52065,-0.13181,Camden Town,Greater London,ENG,England
+2726,WC1H,530000,182300,51.52415,-0.1259,Camden Town,Greater London,ENG,England
+2727,WC1N,530400,182000,51.52136,-0.12025,Camden Town,Greater London,ENG,England
+2728,WC1R,530700,181700,51.5186,-0.11604,Camden Town,Greater London,ENG,England
+2729,WC1V,530500,181500,51.51685,-0.11899,Camden Town,Greater London,ENG,England
+2730,WC1X,530700,182400,51.52489,-0.11578,Camden Town,Greater London,ENG,England
+2732,WC2A,530800,181400,51.51588,-0.11471,Camden Town,Greater London,ENG,England
+2735,WC2H,529900,181100,51.51339,-0.12778,Camden Town,Greater London,ENG,England
